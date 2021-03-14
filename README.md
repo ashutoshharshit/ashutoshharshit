@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashutoshharshit
+- 👋 Hi, I’m Ashutosh Mishra. 
 - 👀 I’m interested in Web application development and Machine Learning 
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 https://www.linkedin.com/in/ashutosh-mishra-93a01a181/
 
 <!---
 ashutoshharshit/ashutoshharshit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
